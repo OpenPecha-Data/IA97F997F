@@ -1,0 +1,25 @@
+id: IA97F997F
+default_language: en-us
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-15 07:47:57.180303+00:00
+last_modified: 2022-12-15 07:47:57.180310+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-060-007
+  title: Toh_178-Teaching_on_the_Aids_to_Enlightenment-v2
+bases:
+  B489:
+    source_metadata: null
+    order: 1
+    base_file: B489.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
